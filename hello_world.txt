@@ -1,0 +1,1 @@
+Opened file with "code hello_world.txt"
